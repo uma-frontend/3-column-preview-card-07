@@ -27,9 +27,9 @@
 
 /*Body*/
 body{
-   background-color: #fff;
-   color: #000;
-   font-size: 16px;
+   background-color: hsl(0, 0%, 95%);
+   color: hsla(0, 0%, 100%, 0.75);
+   font-size: 15px;
    font-weight: normal;
    line-height: 1.5;
    margin: 0;
@@ -46,4 +46,3 @@ img{
    height: 100%;
    object-fit: cover;
 }
-
